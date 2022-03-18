@@ -7,6 +7,8 @@ package com.flink.streaming.operators;
  */
 public class AAA {
     public static void main(String[] args) {
-        System.out.println("aa");
+        int a =5;
+        System.out.println(a);
+
     }
 }
